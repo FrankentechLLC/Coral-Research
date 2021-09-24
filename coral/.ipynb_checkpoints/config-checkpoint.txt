@@ -1,0 +1,12 @@
+root path = data/
+metadata path = metadata.csv
+random seed = 42
+most words considered = 7000000
+most features = 4096
+fewest clusters = 2
+most clusters = 50
+perplexity = 100
+test size = 0.2
+iterations = 10000
+plot width = 1280
+plot height = 850
